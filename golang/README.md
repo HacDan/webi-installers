@@ -23,7 +23,7 @@ etc).
 >
 > If you subscribe to
 > [_The Zen of Python_](https://www.python.org/dev/peps/pep-0020/), you'll
-> [love](https://go-proverbs.github.io/) >
+> [love](https://go-proverbs.github.io/) 
 > [Go](https://www.youtube.com/watch?v=PAAkCSZUG1c).
 
 You may also want to install the Go IDE tooling:
